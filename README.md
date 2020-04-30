@@ -1,2 +1,2 @@
 # typeracer-cheat
-Simple Typeracer cheat python script with Selenium. No ill intent, just written for fun!
+No ill intent, just written to learn python basics.
